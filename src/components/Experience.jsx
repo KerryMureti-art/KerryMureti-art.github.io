@@ -42,7 +42,7 @@ const Experience = () => {
       period: "January 2024 – August 2024",
       details: [
         "Researched on photocatalytic reactor systems for removal of endocrine disrupting compounds (EDCs) in wastewaters",
-        "Set up Titanium dioxide (TiO2) oxidants for domestic effluent treatment in Soweto River. Improved downstream water quality by reducing industrial contaminants and dyes by about 70%, protected the public from potential health risks by EDC exposure",
+        "Set up Titanium dioxide (TiO2) oxidants for domestic effluent treatment in Nairobi River. Improved downstream water quality by reducing industrial contaminants and dyes by about 70%, protected the public from potential health risks by EDC exposure",
         "Established a workshop development program to train locals on how to use and maintain photocatalytic systems"
       ]
     },

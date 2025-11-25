@@ -21,7 +21,7 @@ const Projects = () => {
     {
       title: "Photocatalytic Water Treatment System",
       image: "https://placehold.co/400x300/1a73e8/ffffff?text=Photocatalytic+System",
-      description: "Researched and implemented TiO2 oxidant systems for domestic effluent treatment in Soweto River. Achieved 70% reduction in industrial contaminants and developed training programs for local communities on system maintenance.",
+      description: "Researched and implemented TiO2 oxidant systems for domestic effluent treatment in Nairobi River. Achieved 70% reduction in industrial contaminants and developed training programs for local communities on system maintenance.",
       tags: ["Environmental Engineering", "Water Treatment", "Chemical Processes", "Community Training", "Research"]
     },
     {
