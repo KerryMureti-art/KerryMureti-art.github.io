@@ -17,12 +17,7 @@ const Contact = () => {
               <i className="fas fa-envelope"></i>
               <h4>Email</h4>
               <p>kmn2157@columbia.edu</p>
-            </div>
-            
-            <div className="contact-method" onClick={() => window.open('tel:+16463267525', '_blank')}>
-              <i className="fas fa-phone"></i>
-              <h4>Phone</h4>
-              <p>+1 (646) 326-7525</p>
+              <p>kerrymureti@gmail.com</p>
             </div>
             
             <div className="contact-method" onClick={() => window.open('https://linkedin.com/in/kerrymureti', '_blank')}>
